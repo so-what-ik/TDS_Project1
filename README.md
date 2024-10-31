@@ -1,7 +1,8 @@
 # Basel GitHub Users and Repositories Analysis
 
 ## Summary
-- Data Collection: Leveraging the GitHub API, this project collects detailed profiles and repositories for all GitHub users in Basel with over 10 followers.
+- Data Collection: 
+Using Python, we utilized the GitHub API to gather profiles of users in Basel with over 10 followers and their repositories. Scripts fetch_users.py and fetch_repos.py fetch profile and repository data, respectively, saving them in CSV format. This method enables efficient data capture and analysis.
 - Key Insight: Basel developers with longer bios tend to have more followers, hinting that a well-articulated profile boosts visibility.
 - Recommendation: Developers aiming to attract followers or recruiters should consider sharing more detailed bios and enabling project features to foster engagement.
 
